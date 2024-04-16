@@ -1,4 +1,5 @@
-![logo](https://github.com/mutrejadipin/mutrejadipin/blob/main/code-coding.gif)
+## 💫 About Me:
+<!--![logo](https://github.com/mutrejadipin/mutrejadipin/blob/main/code-coding.gif)-->
 
 <!--
 **mutrejadipin/mutrejadipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,8 +48,10 @@ Here are some ideas to get you started:
 <p><img align="center" width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=mutrejadipin&" alt="mutrejadipin" /></p>
 -->
 <!-- <h1 align="center">Hi 👋, I'm Dipin Mutreja</h1> -->
-<h3 align="center">👋 Hi there! I'm Dipin, a passionate software developer and technology enthusiast. 🚀 I love building innovative software solutions and contributing to open-source projects that make a positive impact. 💻 Currently diving deep into backend, exploring new technologies, and sharpening my coding skills. 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for collaboration opportunities. 📫 Reach me at mutrejadipin@gmail.com or connect with me on LinkedIn/other social media platform.</h3>
-<img align="right" alt="codingGIG" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" >
+
+<h1 align="center">👋 Hi there! I'm Dipin</h1>
+<p>A passionate software developer and technology enthusiast. 🚀 I love building innovative software solutions and contributing to open-source projects that make a positive impact. 💻 Currently diving deep into backend, exploring new technologies, and sharpening my coding skills. 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for collaboration opportunities. 📫 Reach me at mutrejadipin@gmail.com or connect with me on LinkedIn/other social media platform.</p>
+<img align="right" alt="codingGIG" width="400" height=auto src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutrejadipin&label=Profile%20views&color=0e75b6&style=flat" alt="mutrejadipin" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutrejadipin&label=Profile%20views&color=0e75b6&style=flat" alt="mutrejadipin" /> </p>
@@ -56,14 +59,12 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - I’m currently working with [ICICI Securities](Backend Developer)
-
 - 💬 Ask me about **...**
-
 - 📫 How to reach me **mutrejadipin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dipin-mutreja777191178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipin-mutreja777191178" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipin-mutreja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipin-mutreja777191178" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dm2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dm2018" height="30" width="40" /></a>
 </p>
 
