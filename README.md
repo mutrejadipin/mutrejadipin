@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I’m currently working with [ICICI Securities](Backend Developer)
+- I’m currently working in Fintech as software development engineer
 
 - 💬 Ask me about **...**
 
